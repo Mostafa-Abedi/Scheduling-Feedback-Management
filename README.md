@@ -40,4 +40,3 @@ We chose this topic because of the problems we were facing during scheduling. We
 - A limit of 6 months for every entry from the user to address
 - Server capacity should allow at least 50% of the student body to have concurrent connections simultaneously.
 
-**Github Repository Link:** [Insert GitHub Repository Link]
