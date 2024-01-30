@@ -1,4 +1,3 @@
-# Lab 2
 **Faculty of Engineering and Applied Science**
 
 **SOFE 3490U: Software Project Management | CRN: 74015 | Section: 003**
